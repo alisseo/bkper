@@ -1,5 +1,6 @@
 # bkper
-beta versione of script for create buckup whit 7zip
+versione beta dello script per creare backup con 7zip
+(necessita 7zip installato)
 
 editare il codice per personalizzare le patch e varie ozioni
 
