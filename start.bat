@@ -1,6 +1,6 @@
 cls
-7za.exe u -up0q3r2x2y2z1w2 D:\folder_bkp\bkp.7z @listaDir.txt
-@echo off | beep.exe 240 10 /s 50 280 10 /s 50 340 10
+7za.exe u -up0q3r2x2y2z1w2 C:\bkp.7z @listaDir.txt
+@echo
 @echo      
 @echo      
 @echo      SPEGNIMENTO automatico Tra 30 secondi.. .
